@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh kumar M</h1>
 <h3 align="center">Enthusiastic software developer with a strong foundation in programming and problem-solving. Passionate about learning new technologies and building innovative solutions. Committed to continuous improvement and contributing to impactful projects.</h3>
 
-- 🌱 I’m currently learning **Django,React**
 
 - 📫 How to reach me **santhosh16022003@gmail.com**
 
